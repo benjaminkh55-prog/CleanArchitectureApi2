@@ -7,7 +7,7 @@ namespace CleanArchitectureApi.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
-public class ProductsController : ControllerBase
+public class ProductsController : ControllerBase 
 {
     private readonly IMediator _mediator;
 
