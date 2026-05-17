@@ -1,4 +1,4 @@
-using MediatR;
+using MediatR; 
 using Microsoft.EntityFrameworkCore;
 using CleanArchitectureApi.Application.Interfaces;
 using CleanArchitectureApi.Infrastructure.Data;
