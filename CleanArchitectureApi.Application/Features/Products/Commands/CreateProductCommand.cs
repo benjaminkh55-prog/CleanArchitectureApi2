@@ -6,4 +6,4 @@ public record CreateProductCommand(
     string Name,
     decimal Price,
     int CategoryId
-) : IRequest<int>;
+) : IRequest<int>; 
